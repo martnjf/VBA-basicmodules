@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo3"
+Attribute VB_Name = "Módulo4"
 Sub PegarFiltro()
     'Indica una celda de la base filtrada:
     UnaCelda = "B4"
