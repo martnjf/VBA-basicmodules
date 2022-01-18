@@ -1,5 +1,7 @@
 Attribute VB_Name = "Módulo4"
 Sub PegarFiltro()
+   '***************************
+    'This current file copies only the visible cells from a Sheet, creating a new one and pasting it on it.
     'Indica una celda de la base filtrada:
     UnaCelda = "B4"
     
